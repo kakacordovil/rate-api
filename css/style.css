@@ -1,0 +1,85 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+h2, h3, h4 {
+    font-weight: 700;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 6rem;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fafaff;
+}
+
+a {
+    color: #222;
+}
+
+a:hover {
+    color: #fe3a5b;
+}
+
+span {
+    color: #fe3a5b;
+}
+
+
+/*Hero*/
+.hero {
+    position: relative;
+}
+
+/*Hero*/
+.hero {
+    position: relative;
+}
+
+.hero-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -55%);
+    font-size: 6rem;
+    border: 1px solid #fafaff;
+}
+
+/*Call to action*/
+
+.dark-background {
+    background-color: #222;
+    color: #fafaff;
+}
+
+span {
+    color: #fe3a5b;
+}
+
+.btn-main {
+    background-color: #fe3a5b;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.btn-main:hover {
+    background-color: #fafaff;
+    color: #fe3a5b;
+}
+
+/*Footer #3ab5fe*/
+
+footer input, 
+footer textarea{
+    width: 100%;
+    font-size: 1rem;
+    padding: 0.8rem 1rem;
+    margin-bottom: 1rem;
+}
+
+footer a {
+    color: #fafaff !important;
+}
